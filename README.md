@@ -1,7 +1,8 @@
 # iot-projects
 
-## Update
-We made a little update since the first lab. [Here](https://www.youtube.com/watch?v=yr6IzOGoMsQ) is a video explaining how to make a contribution (a pull-request) to someone's repository.
+## Update Jan. 15
+* We made a little update since the first lab. [Here](https://www.youtube.com/watch?v=yr6IzOGoMsQ) is a video explaining how to make a contribution (a pull-request) to someone's repository;
+* To get inspired, some readings about *Disney Reasearch* work [here](https://www.disneyresearch.com/publication/designing-groundless-body-channel-communication-systems/);
 
 ## Step 1
 <s>Clone</s> Fork this repository
