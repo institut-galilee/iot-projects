@@ -19,3 +19,7 @@ You have until Sunday, January 2Oth (23h59) to fill a **pull-request** containin
 
 ## Step 4
 An approval (or enhancement) will be issued by us.
+
+## Step 5
+We will create, for you, a repository in `Institut Galilée - IoT` organization page.
+We will follow your developments (commits, issues, discussions, etc.) and the more active you are, the more you get good appreciations for your final mark.
