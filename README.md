@@ -1,10 +1,13 @@
 # iot-projects
 
+## Update
+We made a little update since the first lab. [Here](https://www.youtube.com/watch?v=yr6IzOGoMsQ) is a video explaining how to make a contribution (a pull-request) to someone's repository.
+
 ## Step 1
-Clone this repository
+<s>Clone</s> Fork this repository
 
 ## Step 2
-After cloning this repository, you will create a folder `team-name` where you will write a `team-name.md` MARKDOWN file (`team-name` being the name of your team).
+After <s>cloning</s> forking this repository, you will create a folder `team-name` where you will write a `team-name.md` MARKDOWN file (`team-name` being the name of your team).
 Your file must contain the following PRELIMINARY components:
 * Members of your team (name, email, github profile);
 * Name of your IoT product;
