@@ -17,8 +17,7 @@
 	  Profil: [Giitto](https://github.com/Giitto)
 	  Email : heba93@hotmail.fr
 	  
-## Name products :
-	* Set-up Immersion 3.5D;
+## Name products : Set-up Immersion 3.5D;
 
 ## Description products :
 
