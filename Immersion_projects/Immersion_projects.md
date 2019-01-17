@@ -36,7 +36,7 @@ Pour cela nous devons créer un set-up adaptable sur toutes les structures (tél
 	Après analyse, des vibrations seront activé en fonction de l'action. Par exemple, si le bruit d'un balle de pistolet est entendu, 
 	les moteurs vibrants situés sur le dos de la chaise s'activeronts. 
 
-	* Application :  
+	* Application : 
 	L'application permettra de contrôler la bande LED. Elle pourra allumer ou éteindre la bande, activer les differents modes de 
 	celle-ci, augmenter ou diminuer la lumière ou bien changer la couleur de la bande.
 
