@@ -10,7 +10,7 @@
 ## Projet 1 : Gant de télécommande rétroprojecteur
 
 #### Description
-Ces gants sont conçus pour vous aider à réussir vos présentations. Ses commandes au diaporama vous permettent de facilité la navigation dans votre présentation en toute confiance. Bouton en simples touches. Sa conception ofCes gants sont conçus pour vous aider à réussir vos présentations. Ses commandes au diaporama vous permettent de faciliter la navigation dans votre présentation en toute confiance. Bouton en simples touches. Sa conception offre une prise en main confortable avec un pointeur lazer rouge facile à voir sur la plupart des fonds, vous permettent ainsi de vous déplacer dans la salle pour aller à la rencontre de votre public. Difficile à perdre pendant la présentation.fre une prise en main confortable avec un pointeur lazer rouge facile à voir sur la plupart des fonds, vous permettant ainsi de vous déplacer dans la salle pour aller à la rencontre de votre public. Difficile à perdre pendant la présentation.
+Ces gants sont conçus pour vous aider à réussir vos présentations. Ses commandes au diaporama vous permettent de faciliter la navigation dans votre présentation en toute confiance. Bouton en simples touches. Sa conception offre une prise en main confortable avec un pointeur lazer rouge facile à voir sur la plupart des fonds, vous permettent ainsi de vous déplacer dans la salle pour aller à la rencontre de votre public. Difficile à perdre pendant la présentation.
 
 #### Liste des composants
 * 2 x ESP32
