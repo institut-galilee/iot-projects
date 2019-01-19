@@ -31,4 +31,3 @@ Les LED visualiseront la musique avec différentes animations.
 * Câble USB - MicroUSB
 * Puce RFID
 * Plaque Plexiglass
-*
