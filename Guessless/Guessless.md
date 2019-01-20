@@ -12,14 +12,14 @@
 
 ## Description :
 
-* Objectif 1 :
+* Version 1 :
 Table connectée ludique permettant de détécter et reconnaitre des objets et d'afficher des informations les concernant récupérés sur internet sur les LEDs intégrés à la table.
 Pour l'affichage des informations, nous utiliserons deux panneaux LED RGB de taille 192mm x 192mm (64x64) ce qui formera un écran horizontal de 64x128 pixels.
 La détéction et la mesure de la position des objets se fera grâce aux caméra installées sur la table.
 Les objets détéctés seront illuminé par les LEDs grâce à la position récupérée avec les caméras.  
 La deuxième alternative pour localiser les objets serait d'utiliser des capteurs IR.
 
-* Objectif 2 :
+* Version 2 :
 Rendre la table tactile avec ajout d'une puce RFID dans celle-ci pour permettre le pairage automatique en BT avec un smartphone et ainsi contrôler la musique.
 La musique sera visualisé avec les LEDs avec différents animations.
 
