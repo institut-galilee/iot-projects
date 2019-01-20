@@ -13,7 +13,7 @@
 ## Description :
 
 * Version 1 :
-Table connectée ludique permettant de détecter et de reconnaitre des objets pouis d'afficher des informations, récupérés sur internet, les concernant sur les LEDs intégrés à la table.
+Table connectée permettant de détecter et de reconnaitre des objets puis d'afficher des informations, récupérés sur internet, les concernant sur les LEDs intégrés à la table.
 Pour l'affichage des informations, nous utiliserons deux panneaux LED RGB de taille 192mm x 192mm (64x64) ce qui formera un écran horizontal de 64x128 pixels.
 La détection et la mesure de la position des objets se feront grâce aux caméras installées sur la table.
 Les objets détectés seront illuminés par les LEDs grâce à la position récupérée avec les caméras.
