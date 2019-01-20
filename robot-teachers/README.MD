@@ -1,26 +1,16 @@
 # Guessless Project
 
 ## Membres :
-* Maher LAAROUSSI (maher.laaroussi@gmail.com) [MaherLRS](https://github.com/MaherLRS "MaherLRS")
+* Rachid AZACRI (rachid.azacri@gmail.com) [AZACRIrachid](https://github.com/MaherLRS "MaherLRS")
 * Aboubakr CHOUTTA (achoutta@gmail.com)  [aboubakrCH](https://github.com/aboubakrCH "aboubakrCH")
-* Hamid OUFKIR (hamid.oufkir@yahoo.com) [HamidOuF](https://github.com/HamidOuF "HamidOuF")
-* Othmane MCHOUAT (mchouat.o@gmail.com)  [othmaneMCHOUAT](https://github.com/othmaneMCHOUAT "othmaneMCHOUAT")
 
 
-## Nom du produit IoT : Guessless
+## Nom du produit IoT : robot-teacher
 
 
 ## Description :
 
-* Objectif 1 :
-Table connectée permettant de détécter des objets et d'afficher des informations les concernant sur les LEDs intégrés à la table.
-Pour l'affichage des informations, nous utiliserons deux panneaux LED RGB de taille 192mm x 192mm (64x64) ce qui formera un écran horizontal de 64x128 pixels.
-La détéction et la mesure de la position des objets se fera grâce aux caméra installées sur la table.
-Les objets détéctés seront illuminé par les LEDs.  
-
-* Objectif 2 :
-Rendre la table tactile avec ajout d'une puce RFID dans celle-ci pour permettre le pairage avec un smartphone et ainsi contrôler la musique.
-Les LED visualiseront la musique avec différentes animations.
+Mon projet consiste en la création d'un robot qui sera mis au sein d'une école comme remplacement d'un instituteur. Et conformément à ce lieu pédagogique, j'ai choisi de l'appeler :Robot Teacher. Ce dernier, dont toutes les fonctionnalités seront celles d'un professeur, à la seule différence qu'il sera doté d'une plus grande capacité d'analyse et de reflexion. Ce robot pourra enseigner les enfants et leur prodiguer toute sortes de leçons ( calculs, gémétrie...).Tel un maitre en chair et en os, il sera doté d'émotions et poura les exprimer ainsi que ses différents ressentis ( colére, déception, joie, tristesse...). Sa mise en milieu pédagogique pourra être bénefique pour les enfants qui passent d'un grade à un autre( cp vers ce1 par exemple). En effet, avec ce robot, on pourra être sûrs qu'il accompagnera l'élève pendant toute sa scolarité qui aura la chance de ne pas perdre ses repères en ayant un noveau prof à chaque nouvelle année. Ce qui est trés benefique pour ces éléves qui continueront à se perfectionner et se donner à fond avec ce maitre à qui ils sont habitués. Dans tout ceci, nous verrons des notes au sommet, qui donneront des enfants heureux et des parents heureux.
 
 
 ## Composants (Liste provisoire) :
