@@ -1,8 +1,8 @@
-# Guessless Project
+# Robot-teacher Project
 
 ## Membres :
-* Rachid AZACRI (rachid.azacri@gmail.com) [AZACRIrachid](https://github.com/MaherLRS "MaherLRS")
-* Aboubakr CHOUTTA (achoutta@gmail.com)  [aboubakrCH](https://github.com/aboubakrCH "aboubakrCH")
+* Rachid AZACRI (rachid.azacri@gmail.com) [AZACRIrachid](https://github.com/AZACRIrachid "AZACRIrachid")
+* Aboubakr CHOUTTA (wahiba.boudjou93@gmail.com)  [wahibaBoudjou](https://github.com/wahibaBoudjou "Wahiba BOUDJOU")
 
 
 ## Nom du produit IoT : robot-teacher
