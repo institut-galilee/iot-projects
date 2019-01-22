@@ -2,7 +2,7 @@
 
 ## TEAM MEMBRES :
 * Name: Heba Kaddouh [Hebak93](https://github.com/Hebak93)
-  Email : heba93@hotmail.fr
+  Email : heba.kaddouh@gmail.com
 	  
 * Name: Mohamed Ben Saad [Mohaabenz](https://github.com/Mohaabenz)
   Email : bensaad.mohamedamine@gmail.com
@@ -11,7 +11,7 @@
   Email : jessy.colombo31@gmail.com
 	  
 * Name: Khalid Barakat [Giitto](https://github.com/Giitto)
-  Email : heba93@hotmail.fr
+  Email : bckhalid@hotmail.fr
 	  
 ## Name products : Set-up Immersion 3.5D;
 
