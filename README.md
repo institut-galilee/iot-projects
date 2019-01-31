@@ -1,5 +1,10 @@
 # iot-projects
 
+## Update Jan. 31
+It is time to fill a pull-request for your project proposal! **Deadlines for other delivrables to be expected soon**
+* For those who have already created an `.md` file, create a pull-request as soon as possible! The reason is that we have to setup teams and repositories **where we will discuss the list of components and we will try to orient/re-orient your research by providing links or resources to begin with**.
+* For those who did not create an `.md` file || do not have an idea || do not belong to a team, **do it as soon as possible** (the steps are below).
+
 ## Update Jan. 15
 * We made a little update since the first lab. [Here](https://www.youtube.com/watch?v=yr6IzOGoMsQ) is a video explaining how to make a contribution (a pull-request) to someone's repository;
 * To get inspired, some readings about *Disney Reasearch* work [here](https://www.disneyresearch.com/publication/designing-groundless-body-channel-communication-systems/);
