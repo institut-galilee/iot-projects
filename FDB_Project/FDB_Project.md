@@ -20,7 +20,7 @@ Au sol, la circulation du sang se fait moins bien, et l’angoisse de rester ain
 
 ##Fonctionnement
 
-*Le principe est simple : c’est un petit composant électronique appelé un accéléromètre qui va mesurer la variation de vitesse du bras lors d’une chute.
+*Le principe est simple : c’est un petit composant électronique appelé un accéléromètre qui va mesurer la variation de vitesse du bras lors d’une chute. Placés dans un bracelet ou dans un médaillon, ils détectent le choc de la personne au sol (pic de décélération) puis son inactivité pendant un temps court. Leurs avantages sont d’être très réactives (une minute après la chute l’alerte est déclenchée) et peu chères.
 Au début, le bras accélère fortement puis stoppe brutalement au moment de l’impact. C’est cela qui permet de caractériser la chute et de déclencher automatiquement un appel d’urgence.
 
 
