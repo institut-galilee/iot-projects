@@ -26,4 +26,4 @@ Au début, le bras accélère fortement puis stoppe brutalement au moment de l�
 
 ##Composants
 
-*Montre connectée dotée d'un accéléromètre 
+*Bracelet connecté doté d'un accéléromètre 
