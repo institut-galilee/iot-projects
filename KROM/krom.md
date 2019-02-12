@@ -1,29 +1,29 @@
-#Projet IoT
+# Projet IoT
 
-##Nom du groupe: KROM
+## Nom du groupe: KROM
 
 Membre du Groupe
-Ameni MBTIBAA -- ameni.mtibaa17@gmail.com -- github.com/amenimtibaa
-André OBROCHTA -- andreobrochta@gmail.com -- github.com/aobrochta
-Lucky RAHERINIAINA -- raheriluc@gmail.com -- github.com/raheriluc
-Adlan KADRI -- adlan68@live.fr -- github.com/adlaneKadri
+* Ameni MBTIBAA -- ameni.mtibaa17@gmail.com -- github.com/amenimtibaa
+* André OBROCHTA -- andreobrochta@gmail.com -- github.com/aobrochta
+* Lucky RAHERINIAINA -- raheriluc@gmail.com -- github.com/raheriluc
+* Adlan KADRI -- adlan68@live.fr -- github.com/adlaneKadri
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-##Projet 1: transalator
+## Projet 1: transalator
 
-####idea name: 
+### idea name: 
 a transalator device connected to internet to perform live transalation ! 
 here is a link to explain more : https://www.youtube.com/watch?v=WeByuOD8k1c
  
-####framework:
+#### framework:
 Espressif Systems Audio Development Framework (ESP-ADF): is the official audio development framework for the ESP32 chip.
  
-####hardware:
-  -ESP32-LyraT:An open-source development board, supporting Espressif Systems’ ADF and featuring voice wake-up, a wake-up button and an audio player.         Designed for smart speakers and smart-home applications.
+#### hardware:
+  * ESP32-LyraT:An open-source development board, supporting Espressif Systems’ ADF and featuring voice wake-up, a wake-up button and an audio player.         Designed for smart speakers and smart-home applications.
     (here is an example that uses this chip : https://github.com/espressif/esp-adf/tree/master/examples/cloud_services/google_translate_device )
-####OR
-  -ESP32-LyraTD-MSC: Designed for smart speakers and AI applications. Supports Acoustic Echo Cancellation (AEC), Automatic Speech Recognition (ASR),         Wake-up Interrupt and Voice Interaction.
+#### OR
+  * ESP32-LyraTD-MSC: Designed for smart speakers and AI applications. Supports Acoustic Echo Cancellation (AEC), Automatic Speech Recognition (ASR),         Wake-up Interrupt and Voice Interaction.
 --> official documentation for both : https://github.com/espressif/esp-adf 
  
 useful links: (in this project we can use Google translate API or microsoft transalator: we can use them for free for 12 months )
@@ -37,28 +37,28 @@ useful links: (in this project we can use Google translate API or microsoft tran
  
 ------------------------------------------------------------------------------------------------------------------------------------
 
-##Projet 2: ABC
+## Projet 2: ABC
 
-####Description
+### Description
 
 Imaginer que vous venez de recevoir une lettre d'un proche dont vous ne comprenez rien 
 car l'ecriture est illisible. Ne paniquer pas d'une simple prise de photo ABC est là pour 
 dechiffre au mieux le contenu de votre lettre. 
 Ainsi le but de ce projet est de retranscire sous format numerique n'importe quel ecriture manuscrite.
 
-####Liste des composants
+### Liste des composants
 
-- un stylo bic
-- une feuille blanche
-- ESP32 / Rasbery Pi 
-- un capteur photographique
-- bouton on/off
+* un stylo bic
+* une feuille blanche
+* ESP32 / Rasbery Pi 
+* un capteur photographique
+* bouton on/off
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-##Projet 3: Reconnaissance et affichage des panneaux de signalisations 
+## Projet 3: Reconnaissance et affichage des panneaux de signalisations 
 
-####Description
+### Description
 
 Le projet consiste à ajouter une caméra à notre objet connecté qui sera placé à l'avant d'un véhicule de la 
 même manière qu'une 'dashcam'. Celui-ci devra afficher sur un téléphone Android ou IOS, par le biais de Bluetooth, 
@@ -72,21 +72,21 @@ la limitation de vitesse, cependant les informations données par le GPS ne sont
 Il est fréquent, par exemple sur une voie en travaux, que les limitations indiqués soit erroné.
 Notre objet connecté aura l’avantage d’afficher toujours les bonnes limitations.
 
-####Liste des composants
+### Liste des composants
 
--ESP32 / Rasbery Pi
--Caméra
--Smartphone (Android ou IOS avec Bluetooth)
+* ESP32 / Rasbery Pi
+* Caméra
+* Smartphone (Android ou IOS avec Bluetooth)
 
 --------------------------------------------------------------------------------------------------------------------------------------
- ##Projet 4 : Thermometre du monde
+## Projet 4 : Thermometre du monde
 
-####Description 
+### Description 
 
 L'objecrif de ce projet est de pouvoir connaitre la temperature de la capitale de chaque pays 
 par l'echange vocal avec notre machine.
 
-####Liste des composants
-- un micro
-- une petite ecran (afficher res)
-- Rasbery pi / Esp32
+### Liste des composants
+* un micro
+* une petite ecran (afficher res)
+* Rasbery pi / Esp32
