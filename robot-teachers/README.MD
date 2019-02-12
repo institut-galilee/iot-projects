@@ -20,4 +20,4 @@ Ce projet consiste à concevoir un système de parking intelligent qui  mettre �
 * REYAX RYLR896 Lora module SX1276 
 * IR sensor
 * Ultrasonic sensor
-* ECREN0.96 OLED
+* Ecran 0.96 OLED
